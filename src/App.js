@@ -48,7 +48,7 @@ function App() {
       </div>
       <br/>
       <div>
-      Email : <input type="Email" value={Email} onChange={(e) => { return (setEmail(e.target.value)) }} />
+      Email  : <input type="Email" value={Email} onChange={(e) => { return (setEmail(e.target.value)) }} />
       </div>
       <br/>
       <div>
